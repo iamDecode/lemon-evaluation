@@ -1,7 +1,7 @@
 🍋 LEMON evaluation
 =================================
 
-This repository hosts the code to run the evaluation of the LEMON explainer technique.
+This repository hosts the code to run the evaluation of the [LEMON explainer technique](https://github.com/iamDecode/lemon).
 
 ## Setup
 
